@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.ipynb_checkpoints/
 *.py[codz]
 *$py.class
+*.joblib
 
 # C extensions
 *.so
@@ -155,6 +157,8 @@ activemq-data/
 .venv
 env/
 venv/
+data/
+tasks/
 ENV/
 env.bak/
 venv.bak/
